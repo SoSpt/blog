@@ -1,4 +1,4 @@
-(myvenv) ~/djangogirls$ django-admin startproject mysite
+Django~=2.2.4
 
 
 
